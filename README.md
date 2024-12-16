@@ -26,6 +26,6 @@ A **Book Recommendation System** designed to help users discover their next favo
   - Scikit-learn for recommendation algorithms  
   - Flask/Django (if applicable) for backend development  
   - React.js (optional) for frontend design  
-- **Database:** SQLite/MySQL/PostgreSQL  
+- **Database:**MySQL
 - **APIs:** Goodreads/Google Books API for book metadata  
 
